@@ -1,0 +1,8 @@
+numpy
+pandas
+Flask
+dataclasses
+ipykernel
+scikit-learn
+seaborn
+-e .
