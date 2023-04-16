@@ -5,4 +5,5 @@ dataclasses
 ipykernel
 scikit-learn
 seaborn
+
 -e .
